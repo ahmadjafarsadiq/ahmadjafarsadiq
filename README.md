@@ -1,4 +1,12 @@
-## Hi there 👋
+# Halo Semnua!
+
+Perkenalakan nama saya **Ahmad Jafar Sadiq**
+
+Saya seorang Android Developer <br>
+
+Saya Saat ini sedang mengikuti Android Academy Dicoding di [Dicoding](https://www.dicoding.com/).
+
+
 
 <!--
 **ahmadjafarsadiq/ahmadjafarsadiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
